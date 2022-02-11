@@ -2,7 +2,7 @@
 
 This project is developed to solve the JOTC problem.
 
-- JOTCSolutionConsole class is a standalona console application.
+- JOTCSolutionConsole class is a standalone console application.
 - JOTCController class is REST API Spring Boot Application.
 
 For storing users, request for the problem and response H2 in-memory database is used.
